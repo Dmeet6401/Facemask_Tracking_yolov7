@@ -40,7 +40,7 @@ Download yolov7 [YOLOV7](https://github.com/WongKinYiu/yolov7.git)
    ```sh
    streamlit version
    ```
-
+5 Use Detect_or_track.py file for track the perticular object
 ## Usage
 
 1. Run below command in terminal to run streamlit application. 
