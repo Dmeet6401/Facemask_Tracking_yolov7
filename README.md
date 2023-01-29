@@ -34,6 +34,7 @@ Download yolov7 [YOLOV7](https://github.com/WongKinYiu/yolov7.git)
 4. Install packages using requirements.txt
    ```sh
    pip install -r requirements.txt
+   pip install -r requirements_gpu.txt
    ```
 4. Now check if streamlit is installed properly or not.
    ```sh
